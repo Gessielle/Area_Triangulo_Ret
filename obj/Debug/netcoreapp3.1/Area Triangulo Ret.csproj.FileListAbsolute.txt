@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.exe
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.dll
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\bin\Debug\netcoreapp3.1\Area Triangulo Ret.pdb
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.dll
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.pdb
+C:\Users\POSITIVO\Desktop\PC1\Area Triangulo Ret\obj\Debug\netcoreapp3.1\Area Triangulo Ret.genruntimeconfig.cache
